@@ -1,4 +1,5 @@
-## Olá! Eu sou o Eric!
+## Hello! My name is Eric!
+I am Currently working with DevOps and Machine Learning (Convolutional Neural Networks mainly)
  <div>
   <a href="https://github.com/EricCostaDev">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricCostaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
