@@ -10,10 +10,13 @@ I'm an undergraduate in Electronic Engineering and I have experience working wit
 I also have experience in creating full-stack systems using React, Node.js, and PostgreSQL. Additionally, I have a solid understanding of relational databases, with a particular focus on PostgreSQL.
 
 Thanks for visiting my profile!
- <div>
+<div style = "display:flex; flex-direction: column">
   <a href="https://github.com/EricCostaDev">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricCostaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricCostaDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricCostaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/EricCostaDev">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricCostaDev&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
