@@ -1,13 +1,21 @@
-# Hi there, I'm Eric Christian Costa 👋
-I'm an undergraduate in Electronic Engineering and I have experience working with several technologies. Currently, I'm focused on three main areas:
+# 👋 Hi, I'm Eric Christian Costa!
+I'm an undergraduate in Electronic Engineering with a passion for technology. 🤖💻🔌
 
-- **DevOps**: I'm proficient in several DevOps tools and technologies, such as AWS and Docker. I have experience setting up and maintaining production environments in cloud infrastructures.
+## 💻 My Focus Areas
+- **DevOps:** I'm proficient in several DevOps tools and technologies, such as AWS and Docker. I have experience setting up and maintaining production environments in cloud infrastructures. 🚀
 
-- **Computer Vision**: I have been working with Convolutional Neural Networks (CNNs) using Keras to solve complex computer vision tasks.
+- **Computer Vision:** I have been working with Convolutional Neural Networks (CNNs) using Keras to solve complex computer vision tasks. 🤖👀
 
-- **Software Development**: I'm experienced with a variety of programming languages and frameworks such as JavaScript, TypeScript, PHP, Python, React, and Node.js. I enjoy developing software that makes a difference in people's lives.
+- **Software Development:** I'm experienced with a variety of programming languages and frameworks such as JavaScript, TypeScript, PHP, Python, React, and Node.js. I enjoy developing software that makes a difference in people's lives. 🌟
 
-I also have experience in creating full-stack systems using React, Node.js, and PostgreSQL. Additionally, I have a solid understanding of relational databases, with a particular focus on PostgreSQL.
+## 🚀 Skills & Experience
+- **Full-stack Development:** I am skilled in creating full-stack systems using React, Node.js, and PostgreSQL.
+
+- **Cloud Computing:**  I have experience setting up and maintaining production environments mainly in AWS.
+
+- **Machine Learning:**  I mainly have experience in computer vision using Convolutional Neural Networks.
+
+- **Relational Databases:** I have a solid understanding of relational databases, with a particular focus on PostgreSQL.
 
 <div style = "display:flex; flex-direction: column">
   <a href="https://github.com/EricCostaDev">
