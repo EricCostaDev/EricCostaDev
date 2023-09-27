@@ -2,14 +2,14 @@
 I'm an undergraduate in Electronic Engineering with a passion for technology. 🤖💻🔌
 
 ## 💻 My Focus Areas
-- **DevOps:** I'm proficient in several DevOps tools and technologies, such as AWS and Docker. I have experience setting up and maintaining production environments in cloud infrastructures. 🚀
+- **DevOps:** I'm proficient in several DevOps tools and technologies, such as AWS and Docker. I have experience setting up and maintaining production environments in cloud infrastructures.
 
-- **Computer Vision:** I have been working with Convolutional Neural Networks (CNNs) using Keras to solve complex computer vision tasks. 🤖👀
+- **Computer Vision:** I have been working with Convolutional Neural Networks (CNNs) using Keras to solve complex computer vision tasks.
 
-- **Software Development:** I'm experienced with a variety of programming languages and frameworks such as JavaScript, TypeScript, PHP, Python, React, and Node.js. I enjoy developing software that makes a difference in people's lives. 🌟
+- **Software Development:** I'm experienced with a variety of programming languages and frameworks such as JavaScript, TypeScript, PHP, Python, React, and Node.js. I enjoy developing software that makes a difference in people's lives.
 
 ## 🚀 Skills & Experience
-- **Full-stack Development:** I am skilled in creating full-stack systems using React, Node.js, and PostgreSQL.
+- **Full-stack Development:** I am skilled in creating full-stack systems using React, Node.js, and PostgreSQL for example.
 
 - **Cloud Computing:**  I have experience setting up and maintaining production environments mainly in AWS.
 
