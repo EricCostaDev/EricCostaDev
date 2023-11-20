@@ -4,18 +4,31 @@ I'm an undergraduate in Electronic Engineering with a passion for technology. �
 ## 💻 My Focus Areas
 - **DevOps:** I'm proficient in several DevOps tools and technologies, such as AWS and Docker. I have experience setting up and maintaining production environments in cloud infrastructures.
 
-- **Computer Vision:** I have been working with Convolutional Neural Networks (CNNs) using Keras to solve complex computer vision tasks.
+- **Computer Vision:** I worked with Convolutional Neural Networks (CNNs) using Keras to solve complex computer vision tasks.
 
 - **Software Development:** I'm experienced with a variety of programming languages and frameworks such as JavaScript, TypeScript, PHP, Python, React, and Node.js. I enjoy developing software that makes a difference in people's lives.
 
 ## 🚀 Skills & Experience
-- **Full-stack Development:** I am skilled in creating full-stack systems using React, Node.js, and PostgreSQL for example.
 
-- **Cloud Computing:**  I have experience setting up and maintaining production environments mainly in AWS.
+### 👨‍💻 Software Development:
 
-- **Machine Learning:**  I mainly have experience in computer vision using Convolutional Neural Networks.
+- **Backend Development:** Proficient in NodeJS (TypeScript & JavaScript), with a strong grasp of object-oriented programming, ExpressJS, TypeORM, and SOLID principles.
+- **Frontend Development:** Skilled in ReactJS (TypeScript & JavaScript), specializing in session management, cookies, authentication, and routing.
+- **Mobile Development:** Experienced in React Native (TypeScript & JavaScript), both with and without Expo.
+- **Databases:** Knowledgeable in MySQL, PostgreSQL, and MongoDB.
 
-- **Relational Databases:** I have a solid understanding of relational databases, with a particular focus on PostgreSQL.
+### 🔧 DevOps:
+
+- **AWS Expertise:** Well-versed in EC2, RDS, SES, S3, AmplifyApp, ECS, ECR, CloudFormation, and CloudWatch.
+- **CI/CD:** Proficient in CodePipeline and GitHub Actions.
+- **Version Control & Code Review:** Experienced in Git and conducting thorough code reviews.
+
+### 🤖 Machine Learning:
+
+- Developed an optimized AI model for identifying distracted drivers as part of my university thesis.
+- Proficient in Python, with extensive experience in CNNs (Convolutional Neural Networks) using Keras and TensorFlow.
+- Skilled in hyperparameter optimization, data analysis, and dataset processing.
+- Familiar with Google Colab and trained models using GPU and TPU resources.
 
 <div style = "display:flex; flex-direction: column">
   <a href="https://github.com/EricCostaDev">
